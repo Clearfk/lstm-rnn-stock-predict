@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/lidongming1/Desktop/tensorflow_demo/tensorflow_rnn/model_save2/modle.ckpt"
+all_model_checkpoint_paths: "C:/Users/lidongming1/Desktop/tensorflow_demo/tensorflow_rnn/model_save2/modle.ckpt"
